@@ -166,6 +166,7 @@ public class HidraServices {
 
 		try {
 			commands.push();
+			
 			ret = true;
 		} catch (Exception e) {
 			System.err
